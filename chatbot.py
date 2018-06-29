@@ -4,4 +4,4 @@ number = 1
 number2 = 2
 print(number + number2)
 
-# Git is super easy
+number3 = 3
